@@ -31,6 +31,12 @@ go.work.sum
 # client keys from Task4/users/create-users.sh
 Task4/users/certs/
 
+# full apiserver audit log from Task6/Makefile
+Task6/audit.log
+
+# uv
+.venv
+
 # Editor/IDE
 # .idea/
 # .vscode/
