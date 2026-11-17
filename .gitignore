@@ -28,6 +28,9 @@ go.work.sum
 # env file
 .env
 
+# client keys from Task4/users/create-users.sh
+Task4/users/certs/
+
 # Editor/IDE
 # .idea/
 # .vscode/
