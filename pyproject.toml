@@ -1,0 +1,6 @@
+[project]
+name = "propdevelopment"
+version = "0.1.0"
+description = "Разбор журнала аудита Kubernetes"
+requires-python = ">=3.14"
+dependencies = []
